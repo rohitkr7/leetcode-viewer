@@ -698,6 +698,20 @@
     "isBlind75": true
   },
   {
+    "id": 226,
+    "title": "Invert Binary Tree",
+    "slug": "invert-binary-tree",
+    "folder": "0226-invert-binary-tree",
+    "leetcodeUrl": "https://leetcode.com/problems/invert-binary-tree/",
+    "javaFile": "0226-invert-binary-tree/0226-invert-binary-tree.java",
+    "readmeFile": "0226-invert-binary-tree/README.md",
+    "difficulty": "Easy",
+    "topics": [
+      "Tree / BST"
+    ],
+    "isBlind75": true
+  },
+  {
     "id": 230,
     "title": "Kth Smallest Element In A Bst",
     "slug": "kth-smallest-element-in-a-bst",
