@@ -58,6 +58,21 @@
     "isBlind75": true
   },
   {
+    "id": 14,
+    "title": "Longest Common Prefix",
+    "slug": "longest-common-prefix",
+    "folder": "0014-longest-common-prefix",
+    "leetcodeUrl": "https://leetcode.com/problems/longest-common-prefix/",
+    "javaFile": "0014-longest-common-prefix/0014-longest-common-prefix.java",
+    "readmeFile": "0014-longest-common-prefix/README.md",
+    "difficulty": "Medium",
+    "topics": [
+      "Dynamic Programming",
+      "String"
+    ],
+    "isBlind75": false
+  },
+  {
     "id": 19,
     "title": "Remove Nth Node From End Of List",
     "slug": "remove-nth-node-from-end-of-list",
