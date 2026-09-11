@@ -274,6 +274,20 @@
     "isBlind75": true
   },
   {
+    "id": 58,
+    "title": "Length Of Last Word",
+    "slug": "length-of-last-word",
+    "folder": "0058-length-of-last-word",
+    "leetcodeUrl": "https://leetcode.com/problems/length-of-last-word/",
+    "javaFile": "0058-length-of-last-word/0058-length-of-last-word.java",
+    "readmeFile": "0058-length-of-last-word/README.md",
+    "difficulty": "Medium",
+    "topics": [
+      "Algorithms"
+    ],
+    "isBlind75": false
+  },
+  {
     "id": 64,
     "title": "Minimum Path Sum",
     "slug": "minimum-path-sum",
