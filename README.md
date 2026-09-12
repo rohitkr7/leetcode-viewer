@@ -1,10 +1,10 @@
-# LeetCode Problem Solving — DSA Explorer & Blind 75 Tracker
+# LeetCode Solutions — DSA Explorer & Blind 75 Tracker
 
 An interactive, responsive single-page web dashboard to search, filter, and explore my LeetCode Data Structures & Algorithms solutions, complete with an automated **Blind 75 Progress Tracker**. Built with HTML5, Tailwind CSS, and Vanilla JavaScript.
 
 ## 🚀 Key Features
 
-- **🎯 Blind 75 Tracker & Auto-Status**: Maintains the complete curated Blind 75 question list categorized by topics (Array, DP, Tree, Graph, etc.). As soon as a problem solution is pushed to [`rohitkr7/leetcode-problem-solving`](https://github.com/rohitkr7/leetcode-problem-solving), it is automatically detected and marked as **Solved** with interactive completion stats!
+- **🎯 Blind 75 Tracker & Auto-Status**: Maintains the complete curated Blind 75 question list categorized by topics (Array, DP, Tree, Graph, etc.). As soon as a problem solution is pushed to [`rohitkr7/leetcode-solutions`](https://github.com/rohitkr7/leetcode-solutions), it is automatically detected and marked as **Solved** with interactive completion stats!
 - **⚡ 1-Click Blind 75 Filter**: Instantly toggle between **All Solved Solutions** and **Blind 75 Only** from the navigation bar or quick filters to see your exact progress at a glance.
 - **⚡ 100% Dynamic Auto-Sync**: The dashboard dynamically fetches the repository tree from GitHub via the Git Trees API and automated GitHub Actions workflow. Whenever you push a new solution folder (e.g. `0075-sort-colors/`), it immediately appears on the viewer without needing to edit any configuration!
 - **📋 High-Density List / Table View**: Clean, compact table layout displaying problem numbers, titles, colored difficulty badges, topic tags, Blind 75 tags, status indicators, and action buttons.

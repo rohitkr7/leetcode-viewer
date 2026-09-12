@@ -11,9 +11,9 @@ function startApp() {
         sort: 'id-asc'
     };
     let uniqueTopics = new Set();
-    const CACHE_KEY = 'lc_viewer_problems_cache_v5';
-    const CACHE_TIME_KEY = 'lc_viewer_cache_timestamp_v5';
-    const GITHUB_REPO = 'rohitkr7/leetcode-problem-solving';
+    const CACHE_KEY = 'lc_viewer_problems_cache_v6';
+    const CACHE_TIME_KEY = 'lc_viewer_cache_timestamp_v6';
+    const GITHUB_REPO = 'rohitkr7/leetcode-solutions';
 
     // --- DOM Elements ---
     const statsCards = document.getElementById('stats-cards');

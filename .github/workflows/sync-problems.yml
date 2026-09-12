@@ -38,7 +38,7 @@ jobs:
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
           if git status --porcelain problems.json blind75.json | grep -E -q 'problems\.json|blind75\.json'; then
             git add problems.json blind75.json
-            git commit -m "chore(data): auto-sync problems.json & blind75.json from leetcode-problem-solving [skip ci]"
+            git commit -m "chore(data): auto-sync problems.json & blind75.json from leetcode-solutions [skip ci]"
             git push origin main
             echo "Successfully updated problems.json and blind75.json and pushed to main."
           else

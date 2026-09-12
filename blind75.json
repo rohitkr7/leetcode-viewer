@@ -633,7 +633,10 @@
     "category": "Tree",
     "difficulty": "Easy",
     "leetcodeUrl": "https://leetcode.com/problems/invert-binary-tree/",
-    "isSolved": false
+    "isSolved": true,
+    "folder": "0226-invert-binary-tree",
+    "javaFile": "0226-invert-binary-tree/0226-invert-binary-tree.java",
+    "readmeFile": "0226-invert-binary-tree/README.md"
   },
   {
     "id": 124,

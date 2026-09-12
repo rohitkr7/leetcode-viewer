@@ -58,6 +58,21 @@
     "isBlind75": true
   },
   {
+    "id": 14,
+    "title": "Longest Common Prefix",
+    "slug": "longest-common-prefix",
+    "folder": "0014-longest-common-prefix",
+    "leetcodeUrl": "https://leetcode.com/problems/longest-common-prefix/",
+    "javaFile": "0014-longest-common-prefix/0014-longest-common-prefix.java",
+    "readmeFile": "0014-longest-common-prefix/README.md",
+    "difficulty": "Medium",
+    "topics": [
+      "Dynamic Programming",
+      "String"
+    ],
+    "isBlind75": false
+  },
+  {
     "id": 19,
     "title": "Remove Nth Node From End Of List",
     "slug": "remove-nth-node-from-end-of-list",
@@ -257,6 +272,20 @@
       "Array & Matrix"
     ],
     "isBlind75": true
+  },
+  {
+    "id": 58,
+    "title": "Length Of Last Word",
+    "slug": "length-of-last-word",
+    "folder": "0058-length-of-last-word",
+    "leetcodeUrl": "https://leetcode.com/problems/length-of-last-word/",
+    "javaFile": "0058-length-of-last-word/0058-length-of-last-word.java",
+    "readmeFile": "0058-length-of-last-word/README.md",
+    "difficulty": "Medium",
+    "topics": [
+      "Algorithms"
+    ],
+    "isBlind75": false
   },
   {
     "id": 64,
@@ -698,6 +727,20 @@
     "isBlind75": true
   },
   {
+    "id": 226,
+    "title": "Invert Binary Tree",
+    "slug": "invert-binary-tree",
+    "folder": "0226-invert-binary-tree",
+    "leetcodeUrl": "https://leetcode.com/problems/invert-binary-tree/",
+    "javaFile": "0226-invert-binary-tree/0226-invert-binary-tree.java",
+    "readmeFile": "0226-invert-binary-tree/README.md",
+    "difficulty": "Easy",
+    "topics": [
+      "Tree / BST"
+    ],
+    "isBlind75": true
+  },
+  {
     "id": 230,
     "title": "Kth Smallest Element In A Bst",
     "slug": "kth-smallest-element-in-a-bst",
@@ -849,6 +892,20 @@
     "difficulty": "Easy",
     "topics": [
       "Array & Matrix"
+    ],
+    "isBlind75": false
+  },
+  {
+    "id": 344,
+    "title": "Reverse String",
+    "slug": "reverse-string",
+    "folder": "0344-reverse-string",
+    "leetcodeUrl": "https://leetcode.com/problems/reverse-string/",
+    "javaFile": "0344-reverse-string/0344-reverse-string.java",
+    "readmeFile": "0344-reverse-string/README.md",
+    "difficulty": "Medium",
+    "topics": [
+      "String"
     ],
     "isBlind75": false
   },
