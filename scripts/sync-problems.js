@@ -1,7 +1,7 @@
 const fs = require('fs');
 const path = require('path');
 
-const GITHUB_REPO = 'rohitkr7/leetcode-problem-solving';
+const GITHUB_REPO = 'rohitkr7/leetcode-solutions';
 const PROBLEMS_FILE = path.join(__dirname, '..', 'problems.json');
 const BLIND75_FILE = path.join(__dirname, '..', 'blind75.json');
 
