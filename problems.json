@@ -1163,5 +1163,19 @@
       "Array & Matrix"
     ],
     "isBlind75": false
+  },
+  {
+    "id": 1631,
+    "title": "Path With Minimum Effort",
+    "slug": "path-with-minimum-effort",
+    "folder": "1631-path-with-minimum-effort",
+    "leetcodeUrl": "https://leetcode.com/problems/path-with-minimum-effort/",
+    "javaFile": "1631-path-with-minimum-effort/1631-path-with-minimum-effort.java",
+    "readmeFile": "1631-path-with-minimum-effort/README.md",
+    "difficulty": "Medium",
+    "topics": [
+      "Algorithms"
+    ],
+    "isBlind75": false
   }
 ]
