@@ -1052,6 +1052,20 @@
     "isBlind75": false
   },
   {
+    "id": 743,
+    "title": "Network Delay Time",
+    "slug": "network-delay-time",
+    "folder": "0743-network-delay-time",
+    "leetcodeUrl": "https://leetcode.com/problems/network-delay-time/",
+    "javaFile": "0743-network-delay-time/0743-network-delay-time.java",
+    "readmeFile": "0743-network-delay-time/README.md",
+    "difficulty": "Medium",
+    "topics": [
+      "Algorithms"
+    ],
+    "isBlind75": false
+  },
+  {
     "id": 744,
     "title": "Find Smallest Letter Greater Than Target",
     "slug": "find-smallest-letter-greater-than-target",
